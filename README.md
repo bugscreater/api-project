@@ -1,3 +1,10 @@
+Project- description.
+
+In this app I fetch the user data from an api by async-await methods in javascript and after that we display all the users page wise.. 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
